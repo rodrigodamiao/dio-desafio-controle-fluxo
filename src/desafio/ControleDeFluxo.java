@@ -3,7 +3,7 @@ package desafio;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Contador {
+public class ControleDeFluxo {
     public static void main(String[] args) {
         try {
         Scanner scanner = new Scanner(System.in);
